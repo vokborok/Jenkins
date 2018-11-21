@@ -5,3 +5,4 @@ echo "This is a param $PASSED"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "new commit triggered"
+echo "nenenenenennenenen"
